@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restriction_Enzyme_Project", "Restriction_Enzyme_Project\Restriction_Enzyme_Project.csproj", "{37B64724-5BD7-4EBE-A928-E3EC7E9661D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B64724-5BD7-4EBE-A928-E3EC7E9661D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B64724-5BD7-4EBE-A928-E3EC7E9661D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B64724-5BD7-4EBE-A928-E3EC7E9661D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B64724-5BD7-4EBE-A928-E3EC7E9661D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08542AC-FC49-4E2B-A51E-9F79FD8119CF}
+	EndGlobalSection
+EndGlobal
