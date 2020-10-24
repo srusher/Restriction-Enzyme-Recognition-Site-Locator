@@ -1,5 +1,5 @@
 # Where to Look?:
-!!Please ignore the Project folder in the repository!! In order to run this application you need both the code from the Program.cs and Class1.cs file. It should be ran in Visual Studio 2019 for optimal execution. I have also included a seq.txt file to test the program on but feel free to use any other DNA sequence. ** Make sure the .txt file is contained in the correct storage folder in your project directory **
+In order to run this application you need both the code from the Program.cs and Class1.cs file. It should be ran in Visual Studio 2019 for optimal execution. I have also included a seq.txt file to test the program on but feel free to use any other DNA sequence. ** Make sure the .txt file is contained in the correct storage folder in your project directory **
 
 # What does this program do?:
 
