@@ -10,4 +10,4 @@ This application prompts the user for a text file that contains the DNA sequence
 This program is only desinged to read a .txt file with only the DNA sequence contained within. If the file contains an accession number or ID, the program will fail to validate the sequence and ask you to try another file. I plan on adding a functionality to the program that allows it to read files in the FASTA format and to read multiple sequences within the file. 
 
 # Output Example:
-![Image of Output](https://github.com/srusher/Restriction-Enzyme-Recognition-Site-Finder/blob/main/Output/Output2.png)
+![Image of Output](https://github.com/srusher/Restriction-Enzyme-Site-Locator/blob/master/Output/Output2.png)
